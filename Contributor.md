@@ -29,5 +29,5 @@ Format
 ## [Zachary Moseti](https://github.com/ZachyDev)
 
 ## [Aryan Patel](https://github.com/patelaryan7751/)
-
+## [Jessica Hatton](https://github.com/jhatton93)
 
